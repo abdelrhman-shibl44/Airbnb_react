@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/airbnb_react/static/css/main.c384008b.css",
+    "main.js": "/airbnb_react/static/js/main.42fb23f3.js",
+    "static/js/787.c48f1364.chunk.js": "/airbnb_react/static/js/787.c48f1364.chunk.js",
+    "static/media/mountain-bike 1.jpg": "/airbnb_react/static/media/mountain-bike 1.8e7277c6660c88dd86b2.jpg",
+    "static/media/image 23.png": "/airbnb_react/static/media/image 23.056f266cfe3491cf486d.png",
+    "static/media/image 30.png": "/airbnb_react/static/media/image 30.d06eefdd91113f012630.png",
+    "static/media/image 27.png": "/airbnb_react/static/media/image 27.8f19fd57bfdad619e299.png",
+    "static/media/image 24.png": "/airbnb_react/static/media/image 24.01f49d67c0b41b11a1e6.png",
+    "static/media/image 26.png": "/airbnb_react/static/media/image 26.3462198e0d83d76b9268.png",
+    "static/media/image 29.png": "/airbnb_react/static/media/image 29.e3f55a4c699392c1ec3d.png",
+    "static/media/image-12.png": "/airbnb_react/static/media/image-12.40ff341f9bfc0d19edf7.png",
+    "static/media/wedding-photography 1.png": "/airbnb_react/static/media/wedding-photography 1.7bf4d3550895468f1d18.png",
+    "static/media/image 22.png": "/airbnb_react/static/media/image 22.0bcf9179385b0871f88f.png",
+    "static/media/image 28.png": "/airbnb_react/static/media/image 28.9f1f15a36038b961e247.png",
+    "static/media/image 25.png": "/airbnb_react/static/media/image 25.022ebaf8ac7e273263e1.png",
+    "static/media/Vector.png": "/airbnb_react/static/media/Vector.69ce45b8bdf2c37d6264.png",
+    "index.html": "/airbnb_react/index.html",
+    "main.c384008b.css.map": "/airbnb_react/static/css/main.c384008b.css.map",
+    "main.42fb23f3.js.map": "/airbnb_react/static/js/main.42fb23f3.js.map",
+    "787.c48f1364.chunk.js.map": "/airbnb_react/static/js/787.c48f1364.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c384008b.css",
+    "static/js/main.42fb23f3.js"
+  ]
+}
