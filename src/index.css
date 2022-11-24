@@ -71,7 +71,7 @@ body {
   align-self: center;
   grid-row: span 6;
   display: grid;
-  row-gap: 4px;
+  row-gap: 3px;
 }
 
 
@@ -111,24 +111,22 @@ img {
 
 }
 
+.Navbar .container {
+  margin: 0;
+}
+
+h1 {
+  font-size: 30px;
+}
+
 @media(max-width:768px) {
   .Heros .gallery {
-    width: 370px;
+    width: 340px;
+    column-gap: 8px;
   }
 
-  .HolderImage {
-    align-self: center;
-    grid-row: span 6;
-    display: grid;
-    row-gap: 0px;
-  }
-
-  .Navbar .container {
-    margin: 0;
-  }
-
-  h1 {
-    font-size: 30px;
+  .Heros .HolderImage {
+    row-gap: 2px;
   }
 }
 
