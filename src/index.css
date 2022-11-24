@@ -138,23 +138,21 @@ h1 {
   margin: 30px 0;
 }
 
-.cards-list .container {
+.cards-list .cards {
   display: flex;
   flex-wrap: nowrap;
   gap: 20px;
   overflow-x: auto;
 }
 
-.cards-list .cards {
+.cards-list .cards .card {
   width: 180px;
   display: flex;
+  flex-direction: column;
   flex: 0 0 auto;
   font-size: 13px;
   position: relative;
-}
-
-.cards-list .cards .card {
-  line-height: 1.6;
+  row-gap: 7px;
 }
 
 .cards .card img {
