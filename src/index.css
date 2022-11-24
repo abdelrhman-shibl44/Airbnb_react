@@ -111,15 +111,17 @@ img {
 
 }
 
-.Navbar .container {
-  margin: 0;
-}
+
 
 h1 {
   font-size: 30px;
 }
 
 @media(max-width:768px) {
+  .Navbar .container {
+    margin: 0;
+  }
+
   .Heros .gallery {
     width: 340px;
     column-gap: 8px;
