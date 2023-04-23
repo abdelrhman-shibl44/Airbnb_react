@@ -10,6 +10,9 @@ body {
   background-color: #fff;
 }
 
+.App{
+  background-color: #fff;
+}
 .container {
   position: relative;
   margin: auto;
