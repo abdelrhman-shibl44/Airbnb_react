@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/airbnb_react/static/css/main.97cec50f.css",
-    "main.js": "/airbnb_react/static/js/main.79c2aecd.js",
-    "static/js/787.c48f1364.chunk.js": "/airbnb_react/static/js/787.c48f1364.chunk.js",
+    "main.css": "/airbnb_react/static/css/main.51c52f61.css",
+    "main.js": "/airbnb_react/static/js/main.9e3e4f31.js",
     "static/media/mountain-bike 1.jpg": "/airbnb_react/static/media/mountain-bike 1.8e7277c6660c88dd86b2.jpg",
     "static/media/image 23.png": "/airbnb_react/static/media/image 23.056f266cfe3491cf486d.png",
     "static/media/image 30.png": "/airbnb_react/static/media/image 30.d06eefdd91113f012630.png",
@@ -17,12 +16,11 @@
     "static/media/image 25.png": "/airbnb_react/static/media/image 25.022ebaf8ac7e273263e1.png",
     "static/media/Vector.png": "/airbnb_react/static/media/Vector.69ce45b8bdf2c37d6264.png",
     "index.html": "/airbnb_react/index.html",
-    "main.97cec50f.css.map": "/airbnb_react/static/css/main.97cec50f.css.map",
-    "main.79c2aecd.js.map": "/airbnb_react/static/js/main.79c2aecd.js.map",
-    "787.c48f1364.chunk.js.map": "/airbnb_react/static/js/787.c48f1364.chunk.js.map"
+    "main.51c52f61.css.map": "/airbnb_react/static/css/main.51c52f61.css.map",
+    "main.9e3e4f31.js.map": "/airbnb_react/static/js/main.9e3e4f31.js.map"
   },
   "entrypoints": [
-    "static/css/main.97cec50f.css",
-    "static/js/main.79c2aecd.js"
+    "static/css/main.51c52f61.css",
+    "static/js/main.9e3e4f31.js"
   ]
 }
